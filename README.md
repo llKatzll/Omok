@@ -1,0 +1,2 @@
+# Omok
+I BUILD THIS WITH C++
