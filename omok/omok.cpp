@@ -390,6 +390,8 @@ int main()
     //board[5][4] = board[6][4] = board[3][4] = board[2][4] = black;    // 좌우
     //board[3][5] = board[2][6] = board[5][3] = board[6][2] = black;    // 상좌 하우
     //board[2][2] = board[3][3] = board[5][5] = board[6][6] = black;    // 상우 하좌
+    //누가 이겼는지 알려주는거 만들자
+
 
     output();
 
